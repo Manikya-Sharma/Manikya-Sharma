@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a *beginner* programmer currently persuing Bachelors in Information Technology. Some of the programming languages I use are **Python**, **C++**, **Java** and **JavaScript**.
+
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++&logoColor=white)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
