@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Manikya-Sharma/Manikya-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a *beginner* programmer currently persuing Bachelors in Information Technology. Some of the programming languages I use are **Python**, **C++**, **Java** and **JavaScript**.
+## About me
 
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++&logoColor=white)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
+I am a beginner programmer currently persuing Bachelors in Information Technology.
+
+## Programming languages I know
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Frameworks/Libraries I know
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+## Frameworks/Libraries I would like to learn
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+## Programming languages I would like to learn
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+---
+
+## My skills
+
+I have some appreciable knowledge of front end web development. I have focussed on developing strong logic by attempting to create some games using python without any game engine.
+
+## Skills I am working on
+
+I am working on learning more about backend web development. I am also improving my knowledge on Data Structures and Algorithms to write more efficient programs.
+
+I will soon try to learn about App development and Artificial Intelligence/ Machine Learning.
+
+---
+
+## How to contact me
+
+You can reach out to me on Twitter [@manikya_sharma_](https://twitter.com/manikya_sharma_)
