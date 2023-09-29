@@ -66,14 +66,10 @@ I will soon try to learn about App development and Artificial Intelligence/ Mach
 
 ---
 
-## How to contact me
-
-You can reach out to me on Twitter [@manikya_sharma_](https://twitter.com/manikya_sharma_)
-
----
-
 ## My stats
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikya-Sharma&theme=tokyonight&bg_color=000000&langs_count=8&layout=donut&border_radius=4.5&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Manikya-Sharma&theme=tokyonight)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Manikya-Sharma&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@Manikya's Holopin board](https://holopin.me/manikyasharma)](https://holopin.io/@manikyasharma)
