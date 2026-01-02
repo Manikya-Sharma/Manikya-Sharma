@@ -41,8 +41,8 @@
 ---
 
 ### 📊 My stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Manikya-Sharma&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikya-Sharma&theme=tokyonight&bg_color=000000&langs_count=8&layout=donut&border_radius=4.5&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://readme-stats-mauve-eight.vercel.app/api?username=Manikya-Sharma&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://readme-stats-mauve-eight.vercel.app/api/top-langs/?username=Manikya-Sharma&theme=tokyonight&bg_color=000000&langs_count=8&layout=donut&border_radius=4.5&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🤹 My skills
